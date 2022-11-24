@@ -40,8 +40,15 @@ const messages = ref([
     text: "tercer mensaje",
     uid: "002",
     time: Date.now(),
-    displayName: "Alejandro"
+    displayName: "Pepe"
 },
+{
+    id: 3,
+    text: "cuarto mensaje",
+    uid: "002",
+    time: Date.now(),
+    displayName: "Pepe"
+}
 ]);
 
 </script>
